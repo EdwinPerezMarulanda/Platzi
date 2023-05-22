@@ -12,4 +12,3 @@ for (var i = 0; i < tamano; i++) {
         console.log(false)
     }
 }
- 
